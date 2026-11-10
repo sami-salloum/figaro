@@ -1,4 +1,4 @@
-# figaro
+# Figaro
 An open-source, cryptographically verifiable, offline-first attendance system.
 
 you may ask why im doing this? im a student who studies at home and keep skipping classes, well, thats the beauty of it, its funnier this way.
@@ -10,7 +10,7 @@ There's also a practical motivation behind it. I come from a university with a h
 
 ## What is Figaro?
 
-FIGARO is an attempt to rethink how university attendance can work, with security and reliability as design priorities.
+Figaro is an attempt to rethink how university attendance can work, with security and reliability as design priorities.
 The project explores cryptographic authentication, signed attendance records, replay resistance, offline verification, and secure synchronization.
 It is intended to be fully open source, with transparent documentation, honest security claims, and clearly defined limitations.
 This is a learning project, no judging.
